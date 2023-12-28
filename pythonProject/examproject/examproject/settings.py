@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'exam.apps.ExamConfig'
+    'exam.apps.ExamConfig',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
